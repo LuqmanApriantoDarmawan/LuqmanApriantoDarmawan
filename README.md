@@ -77,7 +77,7 @@
   <a href="https://www.linkedin.com/in/luqman-aprianto-darmawan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="luqmanfn17@gmail.com" target="_blank">
+   <a href="mailto:luqmanfn17@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -89,6 +89,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuqmanApriantoDarmawan/LuqmanApriantoDarmawan/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LuqmanApriantoDarmawan/LuqmanApriantoDarmawan/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
 
