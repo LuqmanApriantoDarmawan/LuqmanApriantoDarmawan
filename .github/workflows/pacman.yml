@@ -9,7 +9,7 @@ on:
   push:
     branches:
       - main
-
+#tambah aja
 jobs:
   generate:
     permissions:
