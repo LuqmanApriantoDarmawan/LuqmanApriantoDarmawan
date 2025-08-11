@@ -1,10 +1,10 @@
-<!-- Header dengan animasi -->
+<!-- Header -->
 <h1 align="center">Hi there, I'm Luqman 👋</h1>
 <h3 align="center">Informatics Student | Developer | Tech Enthusiast</h3>
 
 <!-- GIF animasi -->
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="coding gif" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Coding animation" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - 🌱 Currently learning **C, C++, PHP, Go**  
 - 📚 Researching the **impact of AI on human life and its future potential**  
 - 🤝 Open to collaboration on **Web Development** and **Open-Source Projects**  
-- 📫 How to reach me: **youremail@example.com** | [LinkedIn](https://linkedin.com/in/username)  
+- 📫 Reach me at: **youremail@example.com** | [LinkedIn](https://linkedin.com/in/username)  
 
 ---
 
@@ -47,6 +47,12 @@
 ### 🌟 Featured Projects  
 - 🔗 [**Portfolio Website**](https://github.com/username/portfolio) — Personal website built with HTML, CSS, JS.  
 - 🔗 [**AI Research Paper**](https://github.com/username/ai-research) — Exploring the future impact of AI.  
+
+---
+
+### 🐍 Watch my contribution snake eat all my commits!  
+![GitHub Snake Light](https://github.com/LuqmanApriantoDarmawan/LuqmanApriantoDarmawan/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/LuqmanApriantoDarmawan/LuqmanApriantoDarmawan/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
