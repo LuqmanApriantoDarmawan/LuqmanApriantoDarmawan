@@ -100,8 +100,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LuqmanApriantoDarmawan/LuqmanApriantoDarmawan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-
+<img src="https://raw.githubusercontent.com/LuqmanApriantoDarmawan/LuqmanApriantoDarmawan/output/snake.svg" alt="Snake animation" />
 
 ###
