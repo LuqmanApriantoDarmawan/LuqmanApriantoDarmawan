@@ -1,19 +1,24 @@
 name: Generate pacman animation
 
 on:
-  schedule: # execute every 12 hours
+  # jalan otomatis tiap 12 jam
+  schedule:
     - cron: "0 */12 * * *"
 
+  # bisa dijalankan manual
   workflow_dispatch:
 
+  # jalan tiap push ke branch main
   push:
     branches:
       - main
-#tambah aja
+
+# kasih izin global supaya bisa push ke branch output
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
@@ -25,6 +30,9 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+
+      - name: List generated files (debugging)
+        run: ls -R dist
 
       - name: Push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
